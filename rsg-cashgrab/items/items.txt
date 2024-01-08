@@ -1,0 +1,2 @@
+['moneybag']		= {['name'] = 'moneybag',		['label'] = 'Money Bag',		['weight'] = 300,	['type'] = 'item',	['image'] = 'moneybag.png',	['unique'] = false,	['useable'] = true,	['shouldClose'] = true,	['combinable'] = nil,	['level'] = 0,	['description'] = 'cash'},
+['used-moneybag']		= {['name'] = 'used-moneybag',		['label'] = ' Used Money Bag',		['weight'] = 300,	['type'] = 'item',	['image'] = 'used-moneybag.png',	['unique'] = false,	['useable'] = true,	['shouldClose'] = true,	['combinable'] = nil,	['level'] = 0,	['description'] = 'empty bag'},
